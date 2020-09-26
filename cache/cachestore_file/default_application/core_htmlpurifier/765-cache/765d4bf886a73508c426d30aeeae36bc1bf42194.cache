@@ -1,0 +1,8 @@
+s:1012:"<p>Si se permiten múltiples intentos, este parámetro especifica si se almacenará en el libro de calificaciones el valor más alto, el promedio (la media), el primer intento o el último.</p>
+
+<p>Gestión de Múltiples intentos</p>
+
+<ul><li>La posibilidad de iniciar un nuevo intento se marca en una casilla situada encima del botón Enter en la página de estructura del contenido, así que asegúrese que permite el acceso a esa página si desea permitir que más de un intento.</li>
+<li>Algunos paquetes SCORM son inteligentes sobre los nuevos intentos, pero muchos no lo son. Lo que significa que si el estudiante vuelve a ha hacer un intento y contenido SCORM no tiene lógica interna para evitar sobrescribir los intentos anteriores, estos se pueden sobrescribir, incluso si el  intento estaba en estado "completado" o "pasado".</li>
+<li>La configuración de "Forzar completar", "Forzar nuevo intento" y "Bloqueo después del intento final" también mejoran la gestión de múltiples intentos.</li>
+</ul>";

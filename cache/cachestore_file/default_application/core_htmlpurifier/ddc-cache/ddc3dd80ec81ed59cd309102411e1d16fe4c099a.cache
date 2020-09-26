@@ -1,0 +1,10 @@
+s:835:"<p>El tipo de consolidación define cómo se combinan las valuaciones (ratings) para formar la calificación final en el libro de calificaciones.</p>
+
+<ul><li>Promedio de valuaciones- La media de todas las valuaciones</li>
+<li>Número de calificaciones - El número de elementos valuados se convierte en la calificación final. Tenga en cuenta que el total no puede exceder la calificación máxima de la actividad</li>
+<li>Máxima - La valuación más alta se convierte en la calificación final</li>
+<li>Mínima- La valuación más baja se convierte en la calificación final</li>
+<li>Suma- Todas las valuaciones se suman.
+Tenga en cuenta que el total no puede exceder la calificación máxima de la actividad.</li>
+</ul><p>Si "Sin valuaciones" está seleccionado, entonces la actividad no aparece en el libro de calificaciones.</p>
+";

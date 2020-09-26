@@ -1,0 +1,7 @@
+s:231:"<p>&lt;</p>
+
+<p>p&gt;Esta variable define si el enlace automático se hará con palabras completas o no.</p>
+
+<p>Por ejemplo, si está habilitada, la entrada "casa" no se enlazará automáticamente
+con la palabra "casamiento".</p>
+";

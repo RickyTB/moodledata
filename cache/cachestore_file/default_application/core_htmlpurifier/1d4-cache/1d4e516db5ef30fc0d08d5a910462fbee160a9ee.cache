@@ -1,0 +1,2 @@
+s:389:"<p>Esta opción posibilita el modo de mantenimiento durante y después de la migración de la base de datos. Impide el acceso de todos los usuarios hasta que la migración se completa. Por favor, advierta que el administrador debe eliminar manualmente el archivo $CFG-&gt;dataroot/climaintenance.html después de actualizar los ajustes de config.php para retomar la operación normal.</p>
+";

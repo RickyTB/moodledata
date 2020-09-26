@@ -1,0 +1,8 @@
+s:452:"<p>Este ajuste especifica si se han de mostrar/esconder los botones de navegación y su posición.</p>
+
+<p>Hay tres opciones:</p>
+
+<ul><li>No - No mostrar los botones de navegación</li>
+<li>Bajo el contenido - Mostrar los botones de navegación debajo del contenido del paquete SCORM</li>
+<li>Flotantes - Permite especificar manualmente la posición de los botones de navegación desde la izquierda y desde arriba con respecto a la ventana.</li>
+</ul>";

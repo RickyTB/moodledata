@@ -1,0 +1,9 @@
+s:495:"<p>El método de calificación define cómo se determina la calificación de un intento único en una actividad.</p>
+
+<p>Hay 4 métodos de calificación:</p>
+
+<ul><li>Objetos de aprendizaje - Número de objetos de aprendizaje completados/aprobados</li>
+<li>Calificación más alta: La puntuación máxima obtenida  entre todos los objetos realizados</li>
+<li>Calificación promedio: La media de todas las puntuaciones</li>
+<li>Calificaciones sumadas: La suma de todas las puntuaciones</li>
+</ul>";

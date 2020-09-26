@@ -1,0 +1,5 @@
+s:311:"<ul><li>Ninguno - los títulos de capítulos y subcapítulos no tienen formato</li>
+<li>Números - los capítulos y subcapítulos son numerados (1, 1.1, 1.2, 2, ...)</li>
+<li>Viñetas - los subcapítulos son indentados y son mostrados con viñetas</li>
+<li>Sangría - los subcapítulos son indentados</li>
+</ul>";

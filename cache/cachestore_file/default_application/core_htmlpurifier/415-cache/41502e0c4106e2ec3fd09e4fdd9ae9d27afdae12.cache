@@ -1,0 +1,10 @@
+s:1073:"<p>Este parámetro, junto con el tipo de archivo, y siempre que el navegador permita incrustar código, determina cómo se muestra el archivo. Las opciones pueden incluir:</p>
+
+<ul><li><p>Automático - Se selecciona de forma automática la mejor opción para visualizar el archivo.</p></li>
+<li><p>Incrustar - La URL se muestra dentro de la página debajo de la barra de navegación junto con la descripción y cualquier otro bloque.</p></li>
+<li><p>Forzar descarga - Se le pregunta al usuario si desea descargar el archivo. ESTA SUELE SER LA MEJOR OPCIÓN PARA ARCHIVOS PDF.</p></li>
+<li><p>Abrir - Sólo se muestra la dirección en la ventana del navegador.</p></li>
+<li><p>En ventana emergente - La URL se muestra en una ventana nueva del navegador sin menús y sin barra de direcciones.</p></li>
+<li><p>En marco - el archivo se muestra dentro de un marco debajo de la bararde navegación y la descripción del archivo</p></li>
+<li><p>En ventana nueva - el archivo se muestra dentro de una nueva ventana del navegador, con menús y una barra de dirección</p></li>
+</ul>";

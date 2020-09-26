@@ -1,0 +1,10 @@
+s:862:"<p>Hay 7 formatos para mostrar:</p>
+
+<ul><li>Simple, estilo Diccionario  - No se muestran autores y los anexos se muestran como enlaces</li>
+<li>Continuo sin autor - Las entradas se muestran una después de la otra sin separación, parte de los íconos para edición</li>
+<li>Completo con autor - Un formato semejante al de los foros, que muestra los datos del autor y con los archivos adjuntos que aparecen como enlaces.* Completo sin autor - Un formato semejante al de los foros, que no muestra al autor y donde los archivos adjuntos aparecen como enlaces.</li>
+<li>Enciclopedia - Semejante a "Completo con autor", pero en el que las imágenes adjuntas se muestran
+en línea</li>
+<li>Lista de entradas - Los conceptos se enlistan como enlaces</li>
+<li>FAQ - Las palabras PREGUNTA y RESPUESTA se añaden al concepto y a la definición respectivamente</li>
+</ul>";

@@ -1,0 +1,6 @@
+s:523:"<p>Hay 3 opciones:</p>
+
+<ul><li>No: si un intento anterior se completa, pasa o falla, se le proporcionará al estudiante la opción de ingresar en modo de revisión o comenzar un nuevo intento.</li>
+<li>Cuando el intento anterior se completó, pasó o falló: se basa en el paquete SCORM que establece el estado de 'completado', 'aprobado' o 'fallido'.</li>
+<li>Siempre: cada reingreso a la actividad SCORM generará un nuevo intento y el alumno no regresará al mismo punto al que llegó en su intento anterior.</li>
+</ul>";
